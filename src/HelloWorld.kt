@@ -1,5 +1,4 @@
 /*
-    test GitHub webhook
     Lesson 3
     Main function
     Functions are declared via `fun`
