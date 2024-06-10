@@ -18,12 +18,12 @@ fun main() {
 }
 
 
-// Block body function with no params
 fun sumOfTwoNumbers() {
     println(2 + 2)
 }
 
 // Block body function with parameters
+// NOTE: MUST CONTAIN ALL TYPES INCLUDING A RETURN
 fun sumOfTwoNumbers(a: Int, b: Int): Int {
     // (this is a block body function)
     // return println() { DOESN'T WORK BECAUSE PRINTLN IS VOID OR UNIT }
