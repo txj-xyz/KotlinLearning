@@ -16,6 +16,7 @@
         - interface cannot hold a state until initialized
         - we do NOT need to override a function that contains the body inside an interface
         - you cannot implement a property inside an interface
+        - names are unanimous as well
 */
 
 fun main() {
