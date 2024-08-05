@@ -8,6 +8,7 @@
         - Delegate and the class that performs the delegation should both implement the same interface
         - you cannot delegate two difference classes that implement the same interface
         - We can simulate multiple class inheritance with class delegation such as our freelancer 4 example
+        - WHY IS THIS SO CONVOLUTED???
 */
 
 fun main() {
