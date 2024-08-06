@@ -90,6 +90,8 @@ class JavaProgrammer(private val amount: Int): Programmer {
 
 // Now this class doesn't need to implement the interface or properties. as we are delegating an implementation
 class Freelancer: Programmer by KotlinProgrammer(amount = 100)
+
+// Class delegation by the variable we receive, this is handy if we need to cast in params
 class Freelancer2(programmer: Programmer): Programmer by programmer {
         override fun getPaid() { println("You're not getting paid this month") }
 }
