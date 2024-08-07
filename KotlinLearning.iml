@@ -8,8 +8,8 @@
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
       <sourceFolder url="file://$MODULE_DIR$/testResources" type="java-test-resource" />
       <excludeFolder url="file://$MODULE_DIR$/completed-lessons" />
-      <excludeFolder url="file://$MODULE_DIR$/src/other" />
-      <excludeFolder url="file://$MODULE_DIR$/src/util" />
+      <excludeFolder url="file://$MODULE_DIR$/completed-lessons/Section 6/56/other" />
+      <excludeFolder url="file://$MODULE_DIR$/completed-lessons/Section 6/56/util" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
